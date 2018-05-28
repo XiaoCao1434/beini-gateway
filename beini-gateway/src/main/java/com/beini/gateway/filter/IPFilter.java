@@ -1,7 +1,5 @@
 package com.beini.gateway.filter;
 
-import org.springframework.stereotype.Component;
-
 import com.netflix.zuul.ZuulFilter;
 /**
  * IP过滤器
